@@ -43,7 +43,7 @@ class TodoList extends Component {
                 <td>{todo.id}</td>
                 <td>{todo.title}</td>
                 <td>{todo.description}</td>
-                <td>{todo.completed}</td>
+                <td>{todo.completed ? "Yes" : "No"}</td>
                 <td>
                   <button onClick={() => this.handleDelete(todo.id)}>
                     Delete
