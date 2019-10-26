@@ -77,7 +77,7 @@ export class TodoCreateUpdate extends Component {
             <input type="text" className="form-control" ref="description" />
           </div>
           <div className="form-group">
-            <input type="checkbox" ref="completed" checked="" />
+            <input type="checkbox" ref="completed" />
             <label className="p-2">Completed</label>
           </div>
           <button className="btn btn-primary" type="submit">
