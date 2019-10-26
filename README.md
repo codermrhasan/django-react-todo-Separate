@@ -1,4 +1,4 @@
-# Django Rest Framework Todo App
+# Separate Django React Todo App
 
 A Simple Django React Todo list generator. Here frontend and backend are totally separate. They are connected with Rest Api.
 
