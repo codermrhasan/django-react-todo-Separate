@@ -32,7 +32,7 @@ This will start a frontend web app in default browser. Enjoy the app.
 
 
 ## Contributors
-* **Md Rakibul Hasan** - *Initial work* - [rhasancodes](https://github.com/rhasancodes)
+* **Md Rakibul Hasan** - *Initial work* - [codermrhasan](https://github.com/codermrhasan)
 
 ## License
 
