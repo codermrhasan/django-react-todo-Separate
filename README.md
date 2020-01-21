@@ -2,6 +2,9 @@
 
 A Simple Django React Todo list generator. Here frontend and backend are totally separate. They are connected with Rest Api.
 
+## Frontend UI
+* [React UI](ui/django-react-todo.pdf)
+
 ## Deploying on Local Development Server
 
 Must need python>=3.6 and pipenv pre-installed. Clone the repo. Open terminal into that cloned repo. Then install dependency and activate env.
